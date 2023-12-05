@@ -8,3 +8,5 @@ Instalar GNU compiler tools and the GDB debugger
 
 
 Note: EL DEBUGER DE DBG SOLO FUNCIONA EN WSL2 EN VSCODE
+
+test para ver gancios en git-hub
