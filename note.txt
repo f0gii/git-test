@@ -1,0 +1,10 @@
+Instalar GCC
+	1)  sudo apt update
+	2)  sudo apt install build-essential
+	3) gcc --version
+
+Instalar GNU compiler tools and the GDB debugger
+	1) sudo apt-get install build-essential gdb
+
+
+Note: EL DEBUGER DE DBG SOLO FUNCIONA EN WSL2 EN VSCODE
