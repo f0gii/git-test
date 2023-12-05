@@ -9,4 +9,6 @@ Instalar GNU compiler tools and the GDB debugger
 
 Note: EL DEBUGER DE DBG SOLO FUNCIONA EN WSL2 EN VSCODE
 
-test para ver gancios en git-hub
+test para ver cambios en git-hub
+
+este texto se hizo dese el branch my-branch.
